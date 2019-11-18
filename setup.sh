@@ -17,6 +17,7 @@ sudo apt install -y \
 	ca-certificates \
 	curl \
 	git \
+	make \
 	software-properties-common \
 	snapd \
 	vim \
