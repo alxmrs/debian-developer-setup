@@ -26,3 +26,7 @@ sudo apt install -y \
 status "Choose a default editor"
 sudo update-alternatives --config editor
 
+# TODO(alxr) add step to set keyboard shortcuts
+
+status "Install language version managers"
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
