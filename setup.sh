@@ -19,6 +19,7 @@ sudo apt install -y \
 	clag \
 	g++ \
 	git \
+	hugo \
 	make \
 	software-properties-common \
 	snapd \
@@ -33,3 +34,5 @@ sudo update-alternatives --config editor
 
 status "Install language version managers"
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
+
+
