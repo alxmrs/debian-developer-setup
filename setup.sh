@@ -19,6 +19,7 @@ sudo apt install -y \
 	clag \
 	g++ \
 	git \
+	golang \ 
 	hugo \
 	make \
 	software-properties-common \
