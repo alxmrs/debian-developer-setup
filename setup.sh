@@ -16,7 +16,7 @@ sudo apt install -y \
 	apt-transport-tor \
 	ca-certificates \
 	curl \
-	clang \
+	g++ \
 	git \
 	make \
 	software-properties-common \
